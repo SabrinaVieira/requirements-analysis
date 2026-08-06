@@ -1,0 +1,4 @@
+- **O que é:** O documento principal escrito por você com o apoio da IA.
+- **O que vai dentro dele:** A lista com todas as Histórias de Usuário (US01, US02, etc.). Lembra da "consolidação"? É aqui que você coloca os **Requisitos Funcionais** e as **Regras de Negócio** embutidos nos **Critérios de Aceitação** de cada história (como no rascunho que te enviei na mensagem anterior). Você não precisa criar um "Documento de Regras de Negócio" separado, elas vivem aqui dentro.
+- **O que é:** O documento principal escrito por você com o apoio da IA.
+- **O que vai dentro dele:** A lista com todas as Histórias de Usuário (US01, US02, etc.). Lembra da "consolidação"? É aqui que você coloca os **Requisitos Funcionais** e as **Regras de Negócio** embutidos nos **Critérios de Aceitação** de cada história (como no rascunho que te enviei na mensagem anterior). Você não precisa criar um "Documento de Regras de Negócio" separado, elas vivem aqui dentro.
