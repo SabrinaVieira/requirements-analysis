@@ -1,4 +1,4 @@
-Requisitos Funcionais (RF)
+## Requisitos Funcionais (RF)
 
 - **RF01:** O sistema deve permitir que os participantes visualizem todos os eventos disponíveis em um único lugar.
 - **RF02:** O sistema deve enviar um comprovante de inscrição ao participante logo após a efetivação da mesma.

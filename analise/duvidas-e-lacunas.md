@@ -1,4 +1,4 @@
-Ambiguidades, Inconsistências e Esclarecimentos Pendentes
+## Ambiguidades, Inconsistências e Esclarecimentos Pendentes
 
 - **Pendente 01:** Falta definir o prazo limite (SLA) para que o participante possa realizar o cancelamento de sua inscrição no sistema.
 - **Pendente 02:** É necessário documentar as regras exatas e as situações específicas em que o participante terá direito ao reembolso do valor pago.

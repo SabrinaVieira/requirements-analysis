@@ -1,11 +1,7 @@
-Com certeza! Como Designer UX/UI, estruturei os protótipos de baixo nível (wireframes textuais) para o **Sistema Eventus**. Esta estrutura foi pensada para ser limpa, intuitiva e para resolver diretamente as necessidades identificadas nas Histórias de Utilizador.
-
-Pode copiar o conteúdo abaixo para o seu ficheiro `02_Prototipos_Telas`.
-
-### Documento: Protótipos de Ecrã (Wireframes Textuais) - Sistema Eventus
+## Documento: Protótipos de Ecrã (Wireframes Textuais) - Sistema Eventus
 Abaixo estão as descrições de interface (de cima para baixo, da esquerda para a direita) para os três ecrãs principais do sistema.
 
-#### 1. Ecrã: Dashboard do Participante (Explorar Eventos)
+## 1. Ecrã: Dashboard do Participante (Explorar Eventos)
 **Objetivo:** Permitir ao participante ver todos os eventos num único local e acompanhar as suas inscrições ativas.
 
 - **CABEÇALHO (Topo, a toda a largura):**
@@ -36,7 +32,7 @@ Abaixo estão as descrições de interface (de cima para baixo, da esquerda para
 
 - [Lista Rápida] Mostra 2 ou 3 eventos em que o utilizador já está inscrito com o estado (Ex: "Inscrição Confirmada" ou "Aguardando Pagamento").
 
-#### 2. Ecrã: Inscrição e Detalhes do Evento/Workshop
+### 2. Ecrã: Inscrição e Detalhes do Evento/Workshop
 **Objetivo:** Apresentar a informação detalhada de um evento específico, tratar vagas/lista de espera e alertar sobre conflitos de horário.
 
 - **CABEÇALHO (Topo):** Idêntico ao do Dashboard.
@@ -59,7 +55,7 @@ Abaixo estão as descrições de interface (de cima para baixo, da esquerda para
 - *Cenário B (Sem Vagas):* Botão Laranja [Entrar na Lista de Espera].
 - [Link pequeno abaixo do botão] "Ler política de cancelamento".
 
-#### 3. Ecrã: Painel do Palestrante (Consulta de Inscritos)
+### 3. Ecrã: Painel do Palestrante (Consulta de Inscritos)
 **Objetivo:** Permitir que o palestrante consulte quem está inscrito nas suas atividades respeitando regras de privacidade.
 
 - **CABEÇALHO (Topo):**
